@@ -54,11 +54,7 @@ include "config.php";
 
     <br>
 
-    Last name:<br>
-
-    <input type="text" name="lastname">
-
-    <br>
+    
 
     Email:<br>
 
